@@ -1,6 +1,6 @@
 //  A1
 //  NAME : JOENG, SEUNG WON
-//  STUDENT # : 260735232
+//  STUDENT # :
 
 #include <iostream>
 using namespace std;
