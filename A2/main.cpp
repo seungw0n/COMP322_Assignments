@@ -1,6 +1,6 @@
 /*
  NAME : JOENG, SEUNG WON
- STUDENT # : 260735232
+ STUDENT # :
  NOTE : To get random numbers with different sequence, please placed this code in the main function before run.
     srand(static_cast<unsigned int>(time(0))); // Set the seed as time
  */
